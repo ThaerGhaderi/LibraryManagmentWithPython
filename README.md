@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Tests](https://img.shields.io/badge/Tests-55%20passed-brightgreen)
+![Architecture](https://img.shields.io/badge/Architecture-Layered%20%2F%20Repository-orange)
+
 # Library Management System
 A modular terminal-based Library Management System built with Python.
 
