@@ -1,0 +1,35 @@
+[
+    {
+        "id_book": 1,
+        "title": "Aniaml of lion",
+        "author": "Thaer Muhammed Ghadre",
+        "year": 2025,
+        "classification": [
+            "social"
+        ],
+        "available": false,
+        "publication_site": "Damascus"
+    },
+    {
+        "id_book": 2,
+        "title": "cate",
+        "author": "thaer",
+        "year": 2026,
+        "classification": [
+            "healthe"
+        ],
+        "available": true,
+        "publication_site": null
+    },
+    {
+        "id_book": 3,
+        "title": "Boctor",
+        "author": "Nour",
+        "year": 2011,
+        "classification": [
+            "current'"
+        ],
+        "available": false,
+        "publication_site": null
+    }
+]

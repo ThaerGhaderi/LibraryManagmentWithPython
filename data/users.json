@@ -1,0 +1,20 @@
+[
+    {
+        "id_user": 1,
+        "full_name": "Thaer Ghadre",
+        "username": "thaer",
+        "password_hash": "7a090d2306693a3ceed5e0e7407e946e1009476a6b8b33c48a33344319d97ba8",
+        "salt": "d6d5615c50e7799db8eaaaeb529409c1",
+        "role": "librarian",
+        "active": true
+    },
+    {
+        "id_user": 2,
+        "full_name": "Muhammed Ali",
+        "username": "muhammed",
+        "password_hash": "6843fbdfd84d2b1d7fcf6510c6b7ebd8f9f0779b194f5e93a200756ebe886ae1",
+        "salt": "085f25813559ff43c7df61f541c94427",
+        "role": "member",
+        "active": true
+    }
+]
